@@ -1,3 +1,6 @@
 Amazon
 Facebook
 Google
+Cloudflare
+Nvidia
+Apple
