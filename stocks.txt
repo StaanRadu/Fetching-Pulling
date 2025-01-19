@@ -4,3 +4,4 @@ Google
 Cloudflare
 Nvidia
 Apple
+Tesla
