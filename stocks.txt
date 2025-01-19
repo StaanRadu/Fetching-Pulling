@@ -5,3 +5,5 @@ Cloudflare
 Nvidia
 Apple
 Oracle
+Tesla
+Adobe
