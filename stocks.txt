@@ -4,6 +4,6 @@ Google
 Cloudflare
 Nvidia
 Apple
-Oracle
 Tesla
 Adobe
+UBER
